@@ -25,7 +25,7 @@ The Amadeus site:
 
 #### Postman
 
-![alt text](https://res.cloudinary.com/abetavarez/image/upload/v1586121154/postman_ulhuhm.png "postman json data")
+![alt text]https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-search/api-reference"postman json data")
 
 ---
 {
