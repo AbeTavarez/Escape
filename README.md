@@ -45,7 +45,7 @@ The Amadeus site:
 
 ### MVP
 
-- Find an external API to access food recipes data.
+- Find an external API to access hotel deals data.
 - Render data from API on the page.
 - Style the page as indicated on the wireframe.
 - Add search funtionallity, allowing the user to search hotels.
